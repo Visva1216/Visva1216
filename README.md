@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Visva+Prasanth+N;CSE+Student+%7C+Java+%26+Full+Stack+Dev;Building+AI-powered+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Visva%20Prasanth%20N&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=58&animation=fadeIn" alt="Header banner" />
 
 </div>
 
@@ -64,9 +64,19 @@ $ whoami
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Visva1216&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visva1216&theme=tokyonight" alt="Streak Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Visva1216&theme=radical&hide_border=true" alt="Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visva1216&bg_color=000000&color=e91e63&line=2e9ef7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Visva1216&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
+### 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Visva1216/Visva1216/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+> ⚠️ The snake graphic above needs a one-time GitHub Actions setup — see step-by-step below.
 
 ---
 
